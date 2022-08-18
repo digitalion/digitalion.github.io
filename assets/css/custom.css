@@ -1,0 +1,19 @@
+.logo img {
+	height: 36px;
+	margin: 0px 0px 10px 5px;
+	padding-right: 10px;
+}
+
+.features .nav-link img {
+	width: 64px;
+	height: 64px;
+}
+
+.features .tab-pane img {
+	width: 200px;
+	height: 200px;
+}
+
+.text-size-xl {
+	font-size: 6rem;
+}
