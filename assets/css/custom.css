@@ -1,8 +1,18 @@
+/**
+ * Header
+ */
+
 .logo img {
 	height: 36px;
 	margin: 0px 0px 10px 5px;
 	padding-right: 10px;
 }
+
+
+
+/**
+ * Portfolio
+ */
 
 .features .nav-link img {
 	width: 64px;
@@ -14,6 +24,34 @@
 	height: 200px;
 }
 
+
+
+/**
+ * Generix
+ */
+
 .text-size-xl {
 	font-size: 6rem;
+}
+
+
+
+/**
+ * Footer
+ */
+
+.footer .footer-legal .social-links a.twitter:hover {
+	background-color: #1DA1F2;
+}
+.footer .footer-legal .social-links a.facebook:hover {
+	background-color: #4267B2;
+}
+.footer .footer-legal .social-links a.linkedin:hover {
+	background-color: #0A66C2;
+}
+.footer .footer-legal .social-links a.buymeacoffe:hover {
+	background-color: #FFDC03;
+}
+.footer .footer-legal .social-links a.buymeacoffe:hover i {
+	color: #1A1F24;
 }
