@@ -17,17 +17,22 @@
 section a.buymeacoffe {
 	background-color: #FFDC03;
 	color: #1A1F24;
+	font-weight: bold;
 }
 section a.buymeacoffe i {
 	color: #1A1F24;
 }
-section a.buymeacoffe:hover {
+section a.buymeacoffe img {
+	height: 32px;
+	margin-right: 0.7rem;
+}
+/* section a.buymeacoffe:hover {
 	background-color: #1A1F24;
 	color: #FFDC03;
 }
 section a.buymeacoffe:hover i {
 	color: #FFDC03;
-}
+} */
 
 
 
@@ -69,6 +74,9 @@ section a.buymeacoffe:hover i {
 }
 .footer .footer-legal .social-links a.linkedin:hover {
 	background-color: #0A66C2;
+}
+.footer .footer-legal .social-links a.buymeacoffe img {
+	height: 24px;
 }
 .footer .footer-legal .social-links a.buymeacoffe:hover {
 	background-color: #FFDC03;
