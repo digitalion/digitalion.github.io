@@ -40,24 +40,23 @@ section a.buymeacoffe:hover i {
  * Portfolio
  */
 
+.features .nav-link {
+	justify-content: start !important;
+}
 .features .nav-link img {
 	width: 64px;
 	height: 64px;
 }
-
+.features .nav-link i {
+	font-size: 54px !important;
+	margin-bottom: 10px;
+}
 .features .tab-pane img {
 	width: 200px;
 	height: 200px;
 }
-
-
-
-/**
- * Generix
- */
-
-.text-size-xl {
-	font-size: 6rem;
+.features .tab-pane .tab-icon-logo {
+	font-size: 150px;
 }
 
 
