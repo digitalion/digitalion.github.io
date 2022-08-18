@@ -11,6 +11,27 @@
 
 
 /**
+ * Content
+ */
+
+section a.buymeacoffe {
+	background-color: #FFDC03;
+	color: #1A1F24;
+}
+section a.buymeacoffe i {
+	color: #1A1F24;
+}
+section a.buymeacoffe:hover {
+	background-color: #1A1F24;
+	color: #FFDC03;
+}
+section a.buymeacoffe:hover i {
+	color: #FFDC03;
+}
+
+
+
+/**
  * Portfolio
  */
 
